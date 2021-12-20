@@ -1,0 +1,11 @@
+{
+    "name": "Abell Coin",
+    "website": "http://abell.world/",
+    "description": "Abell World is a platform of decentralized games base on blockchain.",
+    "explorer": "https://bscscan.com/token/0xa0B0bd446F76F66E4791631431f4034D08F4a00c",
+    "type": "BEP20",
+    "symbol": "ABC",
+    "decimals": 18,
+    "status": "active", 
+    "id": "0xa0B0bd446F76F66E4791631431f4034D08F4a00c"
+   }
